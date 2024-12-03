@@ -9,5 +9,6 @@ function checkPrime(num){
 }
 console.log(checkPrime(8))
 console.log(checkPrime(7))
+console.log(checkPrime(6))
 
 
